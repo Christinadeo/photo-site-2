@@ -1,0 +1,50 @@
+.font{ font-family: 'Josefin Slab', serif;
+
+}
+
+.spacingport{padding-right: 2em; 
+
+}
+
+.spacingabout{padding-right: 2em;
+
+
+}
+
+.scootch {padding-left: 6em;
+}
+
+.apple{ 
+	font-size: 5em;
+}
+
+.boat{
+	color: #000000;
+
+	font-size: 5em;
+	padding-left: 3em;
+
+}
+
+.info{
+	padding-top: 2em;
+	padding-left: 9em;
+	padding-top: 3em;
+
+
+}
+
+
+.header{ 
+	margin-top: 4em;
+	margin-bottom: 3em;
+
+}
+
+.fat{
+	margin-bottom: 50px;
+}
+
+.thumbs {
+	/*background-color: #ff9;*/
+}
